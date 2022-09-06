@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Daniel Hernandez</h1>
 <h3 align="center">Front-end developer React</h3>
 
-<img align="right" width="50%" src="https://i.postimg.cc/j5vnXQfK/developer-male.png">
+<img align="right" width="50%" src="https://i.postimg.cc/KjZwXF4B/developer-male-BLUE.png">
 <h3 align="left">About me:</h3>
 <p>I create successful responsive websites that are fast, easy to use, and built with best practices using HTML, CSS, JS, REACT building small and medium web apps, custom plugins, features, animations, and coding interactive layouts.
 
