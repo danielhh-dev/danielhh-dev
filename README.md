@@ -7,9 +7,9 @@
 
 </p>
 <ul>
-  <li>📚💻 Always ready to learn more</li>
-  <li>📗🔍Currently study -> Node JS </li>
-  <li>🤝🙌 I'm looking to collaborate on amazing projects in the future and be part of incredible team </li>
+  <li>💻 Always ready to learn more</li>
+  <li>🌱Currently study -> React Native </li>
+  <li>🙌 I'm looking to collaborate on amazing projects in the future and be part of incredible team </li>
 </ul>
 
 <h3 align="left">Languages and Tools:</h3>
