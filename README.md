@@ -2,7 +2,7 @@
 <h3 align="center">Front-end developer React</h3>
 
 <h3 align="left">About me:</h3>
-<p>I create successful responsive websites that are fast, easy to use, and built with best practices using HTML, CSS, JS, REACT building small and medium web apps, custom plugins, features, animations, and coding interactive layouts.
+<p>I create responsive websites that are fast, easy to use, and built with best practices using HTML, CSS, JS, REACT building small and medium web apps, custom plugins, features, animations, and coding interactive layouts.
 
 </p>
 <ul>
