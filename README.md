@@ -2,9 +2,6 @@
 #### Front-End Developer <br/>
 #### Frontend:  Typescript | React | GraphQL | Nextjs <br/>
 #### Backend: Node.js | Mongo | <br/>
-####  :taco: Tacomaster & :pizza: pizza aficionado
-
-
 
 
 ## My values
