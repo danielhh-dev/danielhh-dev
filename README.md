@@ -1,24 +1,29 @@
-<h1 align="center">Hi 👋 I'm Daniel Hernandez</h1>
-<h3 align="center">Front-end developer React</h3>
+# Daniel  - @danielhh-dev
+#### Front-End Developer <br/>
+#### Frontend:  Typescript | React | GraphQL | Nextjs <br/>
+#### Backend: Node.js | Mongo | <br/>
+####  :taco: Tacomaster & :pizza: pizza aficionado
 
-<h3 align="left">About me:</h3>
-<p>I create responsive websites that are fast, easy to use, and built with best practices using HTML, CSS, JS, REACT building small and medium web apps, custom plugins, features, animations, and coding interactive layouts.
 
-</p>
-<ul>
-  <li>💻 Always ready to learn more</li>
-  <li>🌱Currently study -> React Native </li>
-  <li>🙌 I'm looking to collaborate on amazing projects in the future and be part of incredible team </li>
-</ul>
 
-<h3 align="left">Languages and Tools:</h3>
 
-<p align="left"><a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>   </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  
+## My values
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/danielhhdev" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gerson-aguedo-yanac-aa949b1b5/" height="30" width="40" /></a>
-<a href="#" target="_blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/domain.png"  height="40" width="40" /></a>
-</p>
-<hr>
+:open_hands:  **Teamwork** makes everyone stronger <br/>
 
+:key:  Good **communication** is essential <br/>
+
+:hearts:  I'm eager to **learn** something new <br/>
+
+## About me
+
+
+**I have been building web stuff since I was 11 years-old**. Back in the day I tinkered endlessly with the site builder tool from Geocities and came up with a few sites where I could host the Flash animations I was making for my friends. When social media came around I was making myspace websites look stunning (15 year old me thought so) with my sick coding skills.
+
+**Since then I haven't stopped learning and creating.** I have been involved in music, photography, sound engineering, electronic engineering, programming, video production, feature film post-production, VR games, and 3D sound.
+
+
+## Get in touch 
+My site: [danielhh-dev.com](https://www.danielhh-dev.com/)
+Twitter: [@aaspinwall](https://twitter.com/danielhh-dev)
+Email: contact@danielhh-dev.com
