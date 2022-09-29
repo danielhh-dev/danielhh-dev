@@ -5,7 +5,7 @@
  
 
 
-## About me
+## Sobre mí
 
 
 💻 Desarrollador Front-end con sólido conocimiento de React, ES6+, HTML5, CSS3+, Redux, TypeScript. Entendimiento de los principios de diseño, (CSS Modules, Sass, Emotion) y diseño web responsivo. Enfocado en la alta calidad del código y el rendimiento.
