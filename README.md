@@ -16,12 +16,12 @@
 ## About me
 
 
-**I have been building web stuff since I was 11 years-old**. Back in the day I tinkered endlessly with the site builder tool from Geocities and came up with a few sites where I could host the Flash animations I was making for my friends. When social media came around I was making myspace websites look stunning (15 year old me thought so) with my sick coding skills.
+**💻 Desarrollador Front-end con sólido conocimiento de React, ES6+, HTML5, CSS3+, Redux, TypeScript. Entendimiento de los principios de diseño, (CSS Modules, Sass, Emotion) y diseño web responsivo. Enfocado en la alta calidad del código y el rendimiento.
 
-**Since then I haven't stopped learning and creating.** I have been involved in music, photography, sound engineering, electronic engineering, programming, video production, feature film post-production, VR games, and 3D sound.
+**🖌️ Ejercí el puesto de Director de Diseño en NIBIRU, Sociedad Astronómica fundada en la Facultad de Ciencias de la UNAM, responsable de actualizar plantillas y guías de diseño, así como monitorear, evaluar y corregir la creación del material.
 
 
-## Get in touch 
-My site: [danielhh-dev.com](https://www.danielhh-dev.com/)
-Twitter: [@aaspinwall](https://twitter.com/danielhh-dev)
-Email: contact@danielhh-dev.com
+## Contáctame 👋
+Mi sitio: [danielhh-dev.com](https://danielhh-dev.github.io/portfolio)
+Email: danielhh.dev@gmail.com
+Whatsapp: [📲](https://api.whatsapp.com/send?phone=525583461595&text=Hello,%20more%20information!)
