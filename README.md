@@ -1,16 +1,18 @@
 # Daniel  - @danielhh-dev
-#### Front-End Developer <br/>
+#### Full-Stack Developer <br/>
 #### Frontend:  HTML5 | CSS3 | JavaScript | React <br/>
+#### Backend:  NodeJs | Express | Sequelize | PostgreSQL <br/>
 #### Design: Figma | Photoshop | Skecth 
  
 
 
 ## Sobre mí
 
+Soy un desarrollador frontend con amplia experiencia en el uso de tecnologías como React, ES6+, HTML5, CSS3+, Redux y TypeScript. Me especializo en el desarrollo de aplicaciones web responsivas y de alta calidad que ofrecen una experiencia de usuario excepcional. 👨‍💻
 
-💻 Desarrollador Front-end con sólido conocimiento de React, ES6+, HTML5, CSS3+, Redux, TypeScript. Entendimiento de los principios de diseño, (CSS Modules, Sass, Emotion) y diseño web responsivo. Enfocado en la alta calidad del código y el rendimiento.
+Además de mis habilidades técnicas, también tengo experiencia en diseño y en la creación de material visual. Antes de mi trabajo como desarrollador, ejercí el puesto de Director de Diseño en NIBIRU, Sociedad Astronómica fundada en la Facultad de Ciencias de la UNAM, donde actualicé plantillas y guías de diseño y monitoreé, evalué y corregí la creación del material. 🎨
 
-🖌️ Ejercí el puesto de Director de Diseño en NIBIRU, Sociedad Astronómica fundada en la Facultad de Ciencias de la UNAM, responsable de actualizar plantillas y guías de diseño, así como monitorear, evaluar y corregir la creación del material.
+Soy una persona altamente motivada y siempre estoy buscando maneras de mejorar mis habilidades y mantenerme actualizado en las últimas tendencias y herramientas en el campo. Me encanta trabajar en equipo y colaborar con diseñadores, desarrolladores y otros profesionales para crear productos excepcionales. 🤝
 
 
 ## Contáctame 👋
